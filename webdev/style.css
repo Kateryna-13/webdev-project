@@ -490,7 +490,7 @@ li:first-child {
 
   .intro {
       min-height: 100vh;
-      background: url("/assets/bg-image-wrapper.jpg") no-repeat center;
+      background: url("../assets/bg-image-wrapper.jpg") no-repeat center;
       background-size: cover;
       padding-top: 231px;
       height: 744px;
